@@ -1,1 +1,12 @@
 # CS370
+
+## Pirate Intelligent Agent - Reinforcement Learning Project
+
+In this project, I developed an AI-powered pirate agent using Deep Q-Networks (DQN) to navigate a maze and find treasure. The given framework provided a basic reinforcement learning environment, including state representation and a structured reward system. I built upon this foundation by implementing a Q-learning algorithm, designing a neural network to predict optimal actions, and incorporating an epsilon-greedy strategy to balance exploration and exploitation. Additionally, I refined the training loop and experience replay mechanism to improve the agent’s learning efficiency. Over multiple iterations, the AI became more proficient in finding the most efficient route.
+
+This project reflects the core role of computer scientists in solving complex problems through algorithmic thinking and computational models. Computer scientists create intelligent systems, develop software solutions, and optimize processes that drive innovation in various industries. Their work is essential in fields such as artificial intelligence, cybersecurity, and data science. Through this course, I have learned the importance of breaking down a problem, analyzing constraints, formulating a solution, and iteratively improving its effectiveness. By applying structured thinking and testing different approaches, I gained hands-on experience in real-world AI implementation.
+
+Beyond technical development, ethical responsibilities are crucial in AI and computing. Ensuring fairness, transparency, and accountability in AI-driven decisions is essential to prevent unintended biases and unethical outcomes. Privacy and security must also be considered to protect user data and maintain trust. As a computer scientist, my responsibility is to develop reliable, unbiased, and ethically sound systems that serve users effectively while aligning with industry standards and best practices. This project reinforced the importance of these considerations and highlighted the balance between technical performance and ethical responsibility.
+
+Through this experience, I strengthened my understanding of reinforcement learning and deep learning while also recognizing the broader implications of AI in society. By focusing on problem-solving, iterative learning, and responsible AI design, this project has prepared me to tackle future challenges in computer science with both technical skill and ethical awareness.
+
